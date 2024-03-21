@@ -15,7 +15,7 @@ My current research interest is to explain the experimental observations regardi
 
 ## Selected Publications
 1. Xu C., Wang D., Theoretical Perspective of Enhancing Order in n-Doped Thermoelectric Polymers through Side Chain Engineering: The Interplay of Counterion–Backbone Interaction and Side Chain Steric Hindrance. [Nano Letters, 2024, 24, 1776−1783.](https://doi.org/10.1021/acs.nanolett.3c04829)
-2. Xu C., Wang D., Electron transfer driving force as the criterion for efficient n-doping of organic semiconductors with DMBI-H derivatives. [Journal of Materials Chemistry A, 2024, 11, 15416-15425.](http://dx.doi.org/10.1039/D3TA02943C)
+2. Xu C., Wang D., Electron transfer driving force as the criterion for efficient n-doping of organic semiconductors with DMBI-H derivatives. [Journal of Materials Chemistry A, 2023, 11, 15416-15425.](http://dx.doi.org/10.1039/D3TA02943C)
 3. Xu C., Yao C., Zheng S., Effects of lateral-chain thiophene fluorination on morphology and charge transport of BDT-T based small molecule donors: a study with multiscale simulations. [Journal of Materials Chemistry C, 2021, 9, 14637-10647.](https://doi.org/10.1039/D1TC03784F)
 
 ## Hobbies
