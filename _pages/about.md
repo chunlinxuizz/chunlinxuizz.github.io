@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chunlin Xu's page"
+title: "About Chunlin Xu"
 author_profile: true
 redirect_from: 
   - /about/
