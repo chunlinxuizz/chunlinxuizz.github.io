@@ -17,7 +17,7 @@ My current research focuses on elucidating the experimental observations of elec
 [10] Jiang X., **Xu C.**, Wang D., First-Principles Calculations of Mechanical and Thermoelectric Properties of 2D GeAs: Implications for Flexible Thermoelectric Devices. [ACS Applied Nano Materials (2024).](https://pubs.acs.org/doi/abs/10.1021/acsanm.4c02419)\
 [9] Wang D-Y., Ding J., Ma Y., **Xu C.**, Li Z., Zhang X., et al., Multi-heterojunctioned plastics with high thermoelectric figure of merit. [Nature (2024).](https://www.nature.com/articles/s41586-024-07724-2)\
 [8] **Xu C.**, Wang D., Theoretical Perspective of Enhancing Order in n-Doped Thermoelectric Polymers through Side Chain Engineering: The Interplay of Counterion–Backbone Interaction and Side Chain Steric Hindrance. [Nano Letters (2024).](https://doi.org/10.1021/acs.nanolett.3c04829)\
-[7]**Xu C.**, Wang D., Electron transfer driving force as the criterion for efficient n-doping of organic semiconductors with DMBI-H derivatives. [Journal of Materials Chemistry A (2023).](http://dx.doi.org/10.1039/D3TA02943C)\
+[7] **Xu C.**, Wang D., Electron transfer driving force as the criterion for efficient n-doping of organic semiconductors with DMBI-H derivatives. [Journal of Materials Chemistry A (2023).](http://dx.doi.org/10.1039/D3TA02943C)\
 [6] Wang D., Yu H., Shi W., **Xu C.**, Chemical doping of organic and coordination polymers for thermoelectric and spintronic applications: A theoretical understanding. [Accounts of Chemical Research (2023).](https://pubs.acs.org/doi/abs/10.1021/acs.accounts.3c00091)\
 [5] Xiang Y., **Xu C.**, Zheng S., Increasing charge carrier mobility through modifications of terminal groups of Y6: A theoretical study. [International Journal of Molecular Sciences (2023).](https://www.mdpi.com/1422-0067/24/10/8610)\
 [4] **Xu C.**, Yao C., Zheng S., Effects of lateral-chain thiophene fluorination on morphology and charge transport of BDT-T based small molecule donors: a study with multiscale simulations. [Journal of Materials Chemistry C (2021).](https://doi.org/10.1039/D1TC03784F)\
@@ -26,4 +26,4 @@ My current research focuses on elucidating the experimental observations of elec
 [1] **Xu C.**, Xiang Y., Zheng S., Understanding the influence of molecular arrangements on the charge transfer properties at donor-acceptor interface: A computational study of subPC/C70 solar cell.[Journal of Photochemistry and Photobiology A: Chemistry (2020).](https://www.sciencedirect.com/science/article/pii/S101060301931888X)
 
 ## Hobbies
-When I am not working, I enjoy watching movies, swimming, and playing ball sports. I also enjoy writing code, especially when there's no rush.
+I enjoy watching movies, swimming, mountain climbing, and playing ball sports. I also enjoy writing codes, especially when there's no rush.
