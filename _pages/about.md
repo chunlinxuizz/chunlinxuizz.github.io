@@ -20,9 +20,9 @@ My current research focuses on elucidating the experimental observations of elec
 \
 [8] **Xu C.**, Wang D., **Theoretical Perspective of Enhancing Order in n-Doped Thermoelectric Polymers through Side Chain Engineering: The Interplay of Counterion–Backbone Interaction and Side Chain Steric Hindrance**. [Nano Letters (2024).](https://doi.org/10.1021/acs.nanolett.3c04829)\
 \
-[7] **Xu C.**, Wang D., Electron transfer driving force as the criterion for efficient n-doping of organic semiconductors with DMBI-H derivatives. [Journal of Materials Chemistry A (2023).](http://dx.doi.org/10.1039/D3TA02943C)\
+[7] **Xu C.**, Wang D., **Electron transfer driving force as the criterion for efficient n-doping of organic semiconductors with DMBI-H derivatives**. [Journal of Materials Chemistry A (2023).](http://dx.doi.org/10.1039/D3TA02943C)\
 \
-[6] Wang D., Yu H., Shi W., **Xu C.**, Chemical doping of organic and coordination polymers for thermoelectric and spintronic applications: A theoretical understanding. [Accounts of Chemical Research (2023).](https://pubs.acs.org/doi/abs/10.1021/acs.accounts.3c00091)\
+[6] Wang D., Yu H., Shi W., **Xu C.**, **Chemical doping of organic and coordination polymers for thermoelectric and spintronic applications: A theoretical understanding**. [Accounts of Chemical Research (2023).](https://pubs.acs.org/doi/abs/10.1021/acs.accounts.3c00091)\
 \
 [5] Xiang Y., **Xu C.**, Zheng S., **Increasing charge carrier mobility through modifications of terminal groups of Y6: A theoretical study**. [International Journal of Molecular Sciences (2023).](https://www.mdpi.com/1422-0067/24/10/8610)\
 \
