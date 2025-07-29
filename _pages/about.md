@@ -14,7 +14,7 @@ I am a Ph.D. student in Theoretical and Computational Chemistry at the Departmen
 My current research focuses on elucidating the experimental observations of electron and phonon transport in organic small molecular and polymer semiconductors. Due to their soft and structurally complex nature, these materials often deviate significantly from ideal crystalline behavior. The intricate interplay between electrons, phonons, defects, and dopants poses substantial challenges to their investigation, leaving many intriguing questions yet to be answered. To address these challenges, I integrate knowledge from physics, chemistry, computational science, and materials science, employing multiscale simulations that incorporate both quantum and classical mechanical approaches.
 
 ## Publications
-[11] Zhang H., Huang T., Zhu J., **Xu C.**, Zhang D., Duan L., **Fast reverse intersystem crossing over $10^7 s^{−1}$ via near-enantiomeric charge-transfer transitions**. [Chem (2025).](https://doi.org/10.1016/j.chempr.2025.102685)\
+[11] Zhang H., Huang T., Zhu J., **Xu C.**, Zhang D., Duan L., **Fast reverse intersystem crossing over $10^7 \mathrm{s}^{-1}$ via near-enantiomeric charge-transfer transitions**. [Chem (2025).](https://doi.org/10.1016/j.chempr.2025.102685)\
 \
 [10] Jiang X., **Xu C.**, Wang D., **First-Principles Calculations of Mechanical and Thermoelectric Properties of 2D GeAs: Implications for Flexible Thermoelectric Devices**. [ACS Applied Nano Materials (2024).](https://pubs.acs.org/doi/abs/10.1021/acsanm.4c02419)\
 \
