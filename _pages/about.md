@@ -28,7 +28,7 @@ Xia Jiang, **Chunlin Xu**, and Dong Wang \
 \
 *Multi-heterojunctioned plastics with high thermoelectric figure of merit*. \
 Dongyang Wang†, Jiamin Ding†, Yingqiao Ma†, **Chunlin Xu**, Zhiyi Li, Xiao Zhang, Yao Zhao, Yue Zhao, Yuqiu Di, Liyao Liu, Xiaojuan Dai, Ye Zou, BongSoo Kim, Fengjiao Zhang, Zitong Liu, Iain McCulloch, Myeongjae Lee, Cheng Chang, Xiao Yang, Dong Wang, Deqing Zhang, Li-Dong Zhao, Chong-an Di, and Daoben Zhu\
-[**Nature**](https://www.nature.com/articles/s41586-024-07724-2)(2024) 632, 528–535.\
+[**Nature**](https://www.nature.com/articles/s41586-024-07724-2) (2024) 632, 528–535.\
 \
 *Theoretical Perspective of Enhancing Order in n-Doped Thermoelectric Polymers through Side Chain Engineering: The Interplay of Counterion–Backbone Interaction and Side Chain Steric Hindrance*. \
 **Chunlin Xu** and Dong Wang \
