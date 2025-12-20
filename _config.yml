@@ -9,7 +9,7 @@
 locale                   : "Haidian, Beijing"
 title                    : "Chunlin Xu's page"
 title_separator          : "-"
-name                     : &name "Chunlin Xu"
+name                     : &name "Chunlin Xu (徐春林)"
 description              : &description "personal description"
 url                      : https://chunlinxuizz.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
