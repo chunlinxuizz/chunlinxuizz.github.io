@@ -14,52 +14,52 @@ I am a Ph.D. student in Theoretical and Computational Chemistry at the Departmen
 My current research focuses on elucidating the experimental observations of electron and phonon transport in organic small molecular and polymer semiconductors. Due to their soft and structurally complex nature, these materials often deviate significantly from ideal crystalline behavior. The intricate interplay between electrons, phonons, defects, and dopants poses substantial challenges to their investigation, leaving many intriguing questions yet to be answered. To address these challenges, I integrate knowledge from physics, chemistry, computational science, and materials science, employing multiscale simulations that incorporate both quantum and classical mechanical approaches.
 
 ## Publications
-**Chunlin Xu**, Dongyang Wang, Zhaodong Zhu, Svemir Rudić , Sihai Yang ,Chong-an Di, and Dong Wang \
 *Understanding thermal transport in polymer semiconductors via two-channel mechanism*. \
+**Chunlin Xu**, Dongyang Wang, Zhaodong Zhu, Svemir Rudić , Sihai Yang ,Chong-an Di, and Dong Wang \
 [**Nature Communications**](https://www.nature.com/articles/s41467-025-66720-w) (2025)\
 \
-Hai Zhang, Tianyu Huang, Jianping Zhou, **Chunlin Xu**, Dongdong Zhang, and Lian Duan \
 *Fast reverse intersystem crossing over 10^7 s^-1 via near-enantiomeric charge-transfer transitions*. \
+Hai Zhang, Tianyu Huang, Jianping Zhou, **Chunlin Xu**, Dongdong Zhang, and Lian Duan \
 [**Chem**](https://doi.org/10.1016/j.chempr.2025.102685) (2025) 12, 102685.\
 \
-Xia Jiang, **Chunlin Xu**, and Dong Wang \
 *First-Principles Calculations of Mechanical and Thermoelectric Properties of 2D GeAs: Implications for Flexible Thermoelectric Devices*. \
+Xia Jiang, **Chunlin Xu**, and Dong Wang \
 [**ACS Applied Nano Materials**](https://pubs.acs.org/doi/abs/10.1021/acsanm.4c02419) (2024) 7, 16404–16412.\
 \
-Dongyang Wang†, Jiamin Ding†, Yingqiao Ma†, **Chunlin Xu**, Zhiyi Li, Xiao Zhang, Yao Zhao, Yue Zhao, Yuqiu Di, Liyao Liu, Xiaojuan Dai, Ye Zou, BongSoo Kim, Fengjiao Zhang, Zitong Liu, Iain McCulloch, Myeongjae Lee, Cheng Chang, Xiao Yang, Dong Wang, Deqing Zhang, Li-Dong Zhao, Chong-an Di, and Daoben Zhu\
 *Multi-heterojunctioned plastics with high thermoelectric figure of merit*. \
+Dongyang Wang†, Jiamin Ding†, Yingqiao Ma†, **Chunlin Xu**, Zhiyi Li, Xiao Zhang, Yao Zhao, Yue Zhao, Yuqiu Di, Liyao Liu, Xiaojuan Dai, Ye Zou, BongSoo Kim, Fengjiao Zhang, Zitong Liu, Iain McCulloch, Myeongjae Lee, Cheng Chang, Xiao Yang, Dong Wang, Deqing Zhang, Li-Dong Zhao, Chong-an Di, and Daoben Zhu\
 [**Nature**](https://www.nature.com/articles/s41586-024-07724-2)(2024) 632, 528–535.\
 \
-*Chunlin Xu* and Dong Wang \
 *Theoretical Perspective of Enhancing Order in n-Doped Thermoelectric Polymers through Side Chain Engineering: The Interplay of Counterion–Backbone Interaction and Side Chain Steric Hindrance*. \
+**Chunlin Xu** and Dong Wang \
 [**Nano Letters**](https://doi.org/10.1021/acs.nanolett.3c04829) (2024) 24, 1776–1783.\
 \
-**Chunlin Xu** and Dong Wang \
 *Electron transfer driving force as the criterion for efficient n-doping of organic semiconductors with DMBI-H derivatives*. \
+**Chunlin Xu** and Dong Wang \
 [**Journal of Materials Chemistry A**](http://dx.doi.org/10.1039/D3TA02943C) (2023) 11, 15416–15425.\
 \
-Dong Wang, Wen Shi†, Hongde Yu†, and **Chunlin Xu**\
 *Chemical doping of organic and coordination polymers for thermoelectric and spintronic applications: A theoretical understanding*.\
+Dong Wang, Wen Shi†, Hongde Yu†, and **Chunlin Xu**\
 [**Accounts of Chemical Research**](https://pubs.acs.org/doi/abs/10.1021/acs.accounts.3c00091) (2023) 56, 2127–2138.\
 \
-Yunjie Xiang, **Chunlin Xu**, and Shaohui Zheng \
 *Increasing charge carrier mobility through modifications of terminal groups of Y6: A theoretical study*. \
+Yunjie Xiang, **Chunlin Xu**, and Shaohui Zheng \
 [**International Journal of Molecular Sciences**](https://www.mdpi.com/1422-0067/24/10/8610) (2023) 24, 8610.\
 \
-**Chunlin Xu**, Chuang Yao, and Shaohui Zheng \
 *Effects of lateral-chain thiophene fluorination on morphology and charge transport of BDT-T based small molecule donors: a study with multiscale simulations*. \
+**Chunlin Xu**, Chuang Yao, and Shaohui Zheng \
 [**Journal of Materials Chemistry C**](https://doi.org/10.1039/D1TC03784F) (2021) 9, 14637–14647.\
 \
-**Chunlin Xu**, Xiaoping Xu, and Shaohui Zheng \
 *On the relations between backbone thiophene functionalization and charge carrier mobility of A–D–A type small molecules*. \
+**Chunlin Xu**, Xiaoping Xu, and Shaohui Zheng \
 [**New Journal of Chemistry**](https://pubs.rsc.org/en/content/articlehtml/2020/nj/d0nj02199g) (2020) 44, 15177–15185.\
 \
-**Chunlin Xu**, Guo Li, and Shaohui Zheng \
 *Exploring the effects of axial halogen substitutions of subphthalocyanine on the charge transfer nature in subPC/C60 solar cells* \
+**Chunlin Xu**, Guo Li, and Shaohui Zheng \
 [**Journal of Photochemistry and Photobiology A: Chemistry**](https://www.sciencedirect.com/science/article/pii/S101060302030650X) (2020) 403, 112852.\
 \
-**Chunlin Xu**, Yunjie Xiang, and Shaohui Zheng \
 *Understanding the influence of molecular arrangements on the charge transfer properties at donor-acceptor interface: A computational study of subPC/C70 solar cell*. \
+**Chunlin Xu**, Yunjie Xiang, and Shaohui Zheng \
 [**Journal of Photochemistry and Photobiology A: Chemistry**](https://www.sciencedirect.com/science/article/pii/S101060301931888X) (2020) 390, 112346.
 
 
