@@ -14,13 +14,17 @@ I am a Ph.D. student in Theoretical and Computational Chemistry at the Departmen
 My current research focuses on elucidating the experimental observations of electron and phonon transport in organic small molecular and polymer semiconductors. Due to their soft and structurally complex nature, these materials often deviate significantly from ideal crystalline behavior. The intricate interplay between electrons, phonons, defects, and dopants poses substantial challenges to their investigation, leaving many intriguing questions yet to be answered. To address these challenges, I integrate knowledge from physics, chemistry, computational science, and materials science, employing multiscale simulations that incorporate both quantum and classical mechanical approaches.
 
 ## Publications
-*Understanding thermal transport in polymer semiconductors via two-channel mechanism*. \
-**Chunlin Xu**, Dongyang Wang, Zhaodong Zhu, Svemir Rudić , Sihai Yang ,Chong-an Di, and Dong Wang \
-[**Nature Communications**](https://www.nature.com/articles/s41467-025-66720-w) (2025)\
+*Irregular hierarchical-porous polymer for high-performance soft thermoelectrics*.\
+Xiao Zhang, Dongyang Wang, Liyao Liu, Zhiyi Li, Zhen Ji, Xuefeng Zhang, **Chunlin Xu**, Chaoyi Yan, Min Wang, Yuqiu Di, Lixin Niu, Zepang Zhan, Yue Zhao, Xiaojuan Dai, Yong Guan, Bo Guan, Cheng Li, Ye Zou, Dong Wang, Fengjiao Zhang, Deqing Zhang, Daoben Zhu, Chong-an Di\
+[**Science**](https://www.science.org/doi/10.1126/science.adx9237) (2026) 391, 1063-1069.\
 \
 *Fast reverse intersystem crossing over 10^7 s^-1 via near-enantiomeric charge-transfer transitions*. \
 Hai Zhang, Tianyu Huang, Jianping Zhou, **Chunlin Xu**, Dongdong Zhang, and Lian Duan \
-[**Chem**](https://doi.org/10.1016/j.chempr.2025.102685) (2025) 12, 102685.\
+[**Chem**](https://doi.org/10.1016/j.chempr.2025.102685) (2026) 12, 102685.\
+\
+<font color= #871F78>*Understanding thermal transport in polymer semiconductors via two-channel mechanism*.</font>\
+**Chunlin Xu**, Dongyang Wang, Zhaodong Zhu, Svemir Rudić , Sihai Yang ,Chong-an Di, and Dong Wang \
+[**Nature Communications**](https://www.nature.com/articles/s41467-025-66720-w) (2025) 16, 11545.\
 \
 *First-Principles Calculations of Mechanical and Thermoelectric Properties of 2D GeAs: Implications for Flexible Thermoelectric Devices*. \
 Xia Jiang, **Chunlin Xu**, and Dong Wang \
@@ -61,7 +65,6 @@ Yunjie Xiang, **Chunlin Xu**, and Shaohui Zheng \
 *Understanding the influence of molecular arrangements on the charge transfer properties at donor-acceptor interface: A computational study of subPC/C70 solar cell*. \
 **Chunlin Xu**, Yunjie Xiang, and Shaohui Zheng \
 [**Journal of Photochemistry and Photobiology A: Chemistry**](https://www.sciencedirect.com/science/article/pii/S101060301931888X) (2020) 390, 112346.
-
 
 ## Hobbies
 I enjoy watching movies, swimming, mountain climbing, and playing ball sports. I also enjoy writing codes, especially when there's no rush.
