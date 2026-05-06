@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Chunlin Xu"
+title: "Chunlin Xu (徐春林)"
 author_profile: true
 redirect_from: 
   - /about/
